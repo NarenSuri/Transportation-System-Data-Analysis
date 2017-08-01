@@ -1,0 +1,5 @@
+1. get data for any day completely - extracting by day is important. And while extracting make sure that you dont miss the next day 00:** data , becase no bus starts in night in general.
+2. proesss 00:** with the 24+ format notepad++ regex
+3. for 24+ hour records change date too = date -1 in excel
+3. after that sort by your secret file organizer parameters -  param unique id + 3
+4. see if wierdly some data in 24:00 or 00:** formats at the end!! this could have been created by the error you did in step 1
